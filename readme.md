@@ -20,7 +20,7 @@ I have created a docker-compose which should allow you to easily run the applica
 2. `docker-compose up` 
 
 ### Deploying to AWS
-1. Clone repo
+1. Clone repo, cd into `/deploy`
 2. Set environment variable for AWS: 
 
     `export AWS_ACCESS_KEY_ID = <value>`
